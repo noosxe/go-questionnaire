@@ -1,13 +1,10 @@
-go-questionnaire
--
+# go-questionnaire
 
-Introduction
---
+## Introduction
 
 The questionnaire will ask you random questions from a yaml file you provide.
 
-Usage
---
+## Usage
 
 Basic usage:
 
@@ -21,8 +18,7 @@ Questionnaire will ask 10 random questions by default. If you want to choose the
 ./questionnaire -file questions.yaml -n 5
 ```
 
-Questions file
---
+## Questions file
 
 Questionnaire accepts yaml question files tha adhere to a schema:
 
