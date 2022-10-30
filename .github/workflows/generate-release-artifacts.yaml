@@ -1,5 +1,5 @@
 # workflow name
-name: Generate release-artifacts
+name: Generate release artifacts
 
 # on events
 on:
